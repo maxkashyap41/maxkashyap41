@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhurjya Das
-- 👀 I’m interested in Software Development in domains like FSD, Data Engineer or DevOps.
+- 👀 I’m interested in Software Development in domains like FSD, Data Engineer and DevOps.
 - 🌱 I’m currently improving my skill in Data Structures, Algorithms, Mathematics for ML and DL. 
 - 💞️ I’m looking to collaborate on developing Optimal Solutions for Software Programs using Advanced Algorithms.
 - 📫 How to reach me ~ mdcorporate@maxkashyap.com
